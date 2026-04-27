@@ -1,0 +1,2 @@
+public class TrainConsistUC6 {
+}
